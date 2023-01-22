@@ -23,6 +23,7 @@
     "formulahendry.docker-explorer",
     "henriiik.docker-linter",
     "ms-azuretools.vscode-docker",
-    "p1c2u.docker-compose"
+    "p1c2u.docker-compose",
+    "redhat.vscode-yaml"
   ]
 }
