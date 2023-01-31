@@ -1,17 +1,17 @@
 {
-  "name": "vs-code-extension-docker-pack",
-  "displayName": "Zilev Docker Pack",
-  "description": "Conjunto de extensiones para desarrollo en docker en vs code",
+  "name": "vs-code-extension-kubernetes-pack",
+  "displayName": "Zilev Kubernetes Pack",
+  "description": "Conjunto de extensiones para desarrollo en kubernetes en vs code",
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },
   "repository": {
-    "url": "https://github.com/zilev-devops/vs-code-extension-docker-pack.git",
+    "url": "https://github.com/zilev-devops/vs-code-extension-kubernetes-pack.git",
     "type": "vscode"
   },
   "publisher": "zilev",
-  "icon": "docker.png",
+  "icon": "logo.png",
   "galleryBanner": {
     "color": "#399e64",
     "theme": "dark"
@@ -20,10 +20,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "formulahendry.docker-explorer",
-    "henriiik.docker-linter",
-    "ms-azuretools.vscode-docker",
-    "p1c2u.docker-compose",
-    "redhat.vscode-yaml"
+    "zilev.vs-code-extension-docker-pack",
+    "ms-kubernetes-tools.vscode-kubernetes-tools"
   ]
 }
