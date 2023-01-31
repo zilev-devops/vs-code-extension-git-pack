@@ -1,4 +1,4 @@
-# zilev-devops/vs-code-extension-docker-pack
+# zilev-devops/vs-code-extension-kubernetes-pack
 
 - NodeJS 14.15.4
 - Yeoman 4.3.1

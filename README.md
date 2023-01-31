@@ -1,8 +1,6 @@
-# Zilev Docker Pack
+# Zilev Kebernetes Pack
 
-- Docker
-- Docker Linter
-- Docker Explorer
-- Docker Compose
+- Zilev Docker Pack
+- Kebernetes
 
 God Look!
