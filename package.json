@@ -1,26 +1,36 @@
 {
-  "name": "vs-code-extension-kubernetes-pack",
-  "displayName": "Zilev Kubernetes Pack",
-  "description": "Conjunto de extensiones para desarrollo en kubernetes en vs code",
+  "name": "vs-code-extension-git-pack",
+  "displayName": "Zilev Git Pack",
+  "description": "Conjunto de extensiones para desarrollo en git en vs code",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
   "repository": {
-    "url": "https://github.com/zilev-devops/vs-code-extension-kubernetes-pack.git",
+    "url": "https://github.com/zilev-devops/vs-code-extension-git-pack.git",
     "type": "vscode"
   },
   "publisher": "zilev",
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#399e64",
+    "color": "#dd4b3a",
     "theme": "dark"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "zilev.vs-code-extension-docker-pack",
-    "ms-kubernetes-tools.vscode-kubernetes-tools"
+    "donjayamanne.git-extension-pack",
+    "felipecaputo.git-project-manager",
+    "GitHub.remotehub",
+    "pomber.git-file-history",
+    "Serhioromano.vscode-gitflow",
+    "onlyutkarsh.git-config-user-profiles",
+    "bee.git-temporal-vscode",
+    "GitWorktrees.git-worktrees",
+    "maciejdems.add-to-gitignore",
+    "adam-bender.commit-message-editor",
+    "piotrpalarz.vscode-gitignore-generator",
+    "vivaxy.vscode-conventional-commits"
   ]
 }

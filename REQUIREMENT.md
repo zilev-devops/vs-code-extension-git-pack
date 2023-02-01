@@ -1,4 +1,4 @@
-# zilev-devops/vs-code-extension-kubernetes-pack
+# zilev-devops/vs-code-extension-git-pack
 
 - NodeJS 14.15.4
 - Yeoman 4.3.1

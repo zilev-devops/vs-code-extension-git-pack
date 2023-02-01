@@ -1,4 +1,4 @@
-Zilev Docker Packs
+Zilev Git Packs
 
 Copyright (c) Zilev
 
